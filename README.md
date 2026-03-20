@@ -1,7 +1,7 @@
 
 # MALDI
 
-Tools related to Autobio Autof ms1000 and other MALDI-TOF including file conversion, dat processing, and AMR prediction.
+Tools related to MALDI-TOF including file conversion, dat processing, and AMR prediction.
 
 
 
