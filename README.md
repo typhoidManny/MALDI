@@ -11,4 +11,5 @@ Tools related to MALDI-TOF including file conversion, dat processing, and AMR pr
 - Read data from Bruker .fid files (fid_reader.py)
 - Convert Autof ms1000 spectrum point files to various formats (XML, mzXML,mzML)
 - Pre-processing of mzXML files for AMR prediction pipeline (PreProcess.R)
-- Predict resistance to Cefotaxime for Klebsiella pneumoniae from pre-processed spectra (TODO: ADD PREDICTION SCRIPT)
+- Predict resistance to Cefotaxime for Klebsiella pneumoniae from pre-processed spectra (K_pneumo-Cefotaxime-Resistance-Predict)
+  --Hosted at https://huggingface.co/spaces/escaleram-dev/MALDI-AMR-Predict
