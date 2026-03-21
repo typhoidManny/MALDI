@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+gradio
+lightgbm
+numpy
+pandas
+joblib
+matplotlib
+scikit-learn==1.6.1
