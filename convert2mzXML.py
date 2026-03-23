@@ -51,7 +51,7 @@ def convert_to_exact_mzxml(input_path, output_path):
 <software type="processing" name="" version=""/>
 </dataProcessing>
 <scan num="1" msLevel="1" peaksCount="{peaks_count}" polarity="+" lowMz="{low_mz:.6f}" highMz="{high_mz:.6f}" basePeakMz="{base_peak_mz:.6f}" basePeakIntensity="{base_peak_intensity:.6f}" tot_ion_current="{tot_ion_current:.6f}">
-<peaks precision="32" byteOrder="network" contentType="m/z-int" compressionType="none" compressedLen="0">{encoded_peaks}</peaks>
+<peaks precision="32" byteOrder="network" contentType="m/z-int" pairOrder="m/z-int" compressionType="none" compressedLen="0">{encoded_peaks}</peaks>
 </scan>
 </msRun>
 </mzXML>'''
